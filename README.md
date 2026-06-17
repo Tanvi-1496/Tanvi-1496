@@ -1,5 +1,5 @@
 # 👩‍💻 Tanvi Jaware
-
+![Profile Views](https://komarev.com/ghpvc/?username=Tanvi_1496&color=blue)
 Software Developer | Android Developer | DevOps Enthusiast
 
 ---
