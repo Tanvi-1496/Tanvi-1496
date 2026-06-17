@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👩‍💻 Tanvi Jaware
 
-<!--
-**Tanvi-1496/Tanvi-1496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer | Android Developer | DevOps Enthusiast
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 LeetCode Progress
+
+<!-- LEETCODE_STATS_START -->
+
+
+<div align="center">
+
+## 🧩 LeetCode Statistics
+
+<table>
+<tr>
+<td align="center">
+
+🔥 <b>Total Solved</b><br>
+<h2>45</h2>
+
+</td>
+
+<td align="center">
+
+🟢 <b>Easy</b><br>
+<h2>25</h2>
+
+</td>
+
+<td align="center">
+
+🟡 <b>Medium</b><br>
+<h2>18</h2>
+
+</td>
+
+<td align="center">
+
+🔴 <b>Hard</b><br>
+<h2>2</h2>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<!-- LEETCODE_STATS_END -->
+
+---
+
+## 🚀 Skills
+
+- Java
+- Python
+- Android Development
+- Git & GitHub
+- DevOps
