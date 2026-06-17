@@ -51,6 +51,7 @@ Software Developer | Android Developer | DevOps Enthusiast
 <!-- LEETCODE_STATS_END -->
 
 ---
+![LeetCode](https://leetcard.jacoblin.cool/Tanvi_1496?theme=dark&ext=heatmap)
 
 ## 🚀 Skills
 
