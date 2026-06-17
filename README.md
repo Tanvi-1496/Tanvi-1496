@@ -1,5 +1,5 @@
 # 👩‍💻 Tanvi Jaware
-![Profile Views](https://komarev.com/ghpvc/?username=Tanvi_1496&color=blue)
+![Profile Views](https://visitcount.itsvg.in/api?id=Tanvi_1496&label=Profile%20Views&color=1&pretty=true)
 Software Developer | Android Developer | DevOps Enthusiast
 
 ---
