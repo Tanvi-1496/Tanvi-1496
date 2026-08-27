@@ -7,31 +7,39 @@ Software Developer | Android Developer | DevOps Enthusiast
 
 <!-- LEETCODE_STATS_START -->
 
+
 <div align="center">
 
 ## 🧩 LeetCode Statistics
 
 <table>
 <tr>
-
 <td align="center">
+
 🔥 <b>Total Solved</b><br>
-<h2>0</h2>
+<h2>117</h2>
+
 </td>
 
 <td align="center">
+
 🟢 <b>Easy</b><br>
-<h2>0</h2>
+<h2>71</h2>
+
 </td>
 
 <td align="center">
+
 🟡 <b>Medium</b><br>
-<h2>0</h2>
+<h2>43</h2>
+
 </td>
 
 <td align="center">
+
 🔴 <b>Hard</b><br>
-<h2>0</h2>
+<h2>3</h2>
+
 </td>
 
 </tr>
