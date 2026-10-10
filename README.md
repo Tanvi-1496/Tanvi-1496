@@ -17,7 +17,7 @@ Software Developer | Android Developer | DevOps Enthusiast
 <td align="center">
 
 🔥 <b>Total Solved</b><br>
-<h2>187</h2>
+<h2>188</h2>
 
 </td>
 
@@ -31,7 +31,7 @@ Software Developer | Android Developer | DevOps Enthusiast
 <td align="center">
 
 🟡 <b>Medium</b><br>
-<h2>85</h2>
+<h2>86</h2>
 
 </td>
 
