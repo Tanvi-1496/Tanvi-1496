@@ -17,14 +17,14 @@ Software Developer | Android Developer | DevOps Enthusiast
 <td align="center">
 
 🔥 <b>Total Solved</b><br>
-<h2>222</h2>
+<h2>223</h2>
 
 </td>
 
 <td align="center">
 
 🟢 <b>Easy</b><br>
-<h2>107</h2>
+<h2>108</h2>
 
 </td>
 
